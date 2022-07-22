@@ -1,0 +1,1 @@
+export { default as getData } from './PokemonServices/PokemonService'
